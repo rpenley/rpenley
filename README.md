@@ -25,7 +25,7 @@
 # Hobbies and interests
 ## I enjoy 
 - 8 bit computers
-- vintage video game consoles
+- Vintage video game consoles
 - RISC Assembly
 - Microprocessors
 - Music recording and audio engineering
