@@ -3,7 +3,7 @@
 
 # Skills
 ## I am proficient in a large variety of languages and design paradigms on both the frontend and backend. Examples include
-- single page applications such as ReactJS/AngularJS and SASS with tools like gulp and webpack
+- Single page application frameworks such as ReactJS/AngularJS and SASS with orchestration tools like gulp and webpack
 - Python with Flask
 - Node with Express
 - Java with Hibernate
@@ -12,12 +12,22 @@
 - and SQL across MSSQL, PostgreSQL, and MySQL/MariaDB database engines
 
 ## I have developed infrastructure and code that is *scalable*, *manageable*, and *performant* in AWS and have implemented
-- full CI/CD and test coverage
-- Centralized Authentication across hundreds of servers
-- Security Auditing for NIST, PCI-DSS, and SOC 1/2
-- Containerized stacks with Amazon ECS and Docker
-- High Availability Virtual Machines stacks in AWS EC2 with Auto Scailing Groups 
-- I also speak fluent Linux, Gitlab, git, vim and Jira.
+- Full Test Coverage and CI/CD with Jenkins and AWS CodeDeploy
+- Centralized Authentication and access controls across a multitude of servers and clients
+- Security Auditing for NIST, PCI-DSS, and SOC 1/2 in both single and multi-tenant configurations
+- Orchestration with Ansible and Puppet
+- Monitoring with Check_mk, Nagios, and NewRelic
+- Infrastructure as code with Terraform and CloudFormation
+- Containerized stacks with Amazon ECS and Docker Compose
+- High Availability Virtual Machines LAMP stacks in AWS EC2 with Auto Scaling Groups and RDS
+- I also speak fluent Linux, Gitlab, git, vim and the Atlissian Suite of tools
 
 # Hobbies and interests
-## I enjoy 8 bit computers, RISC Assembly, microprocessors, and building small form factor computers and keyboards. 
+## I enjoy 
+- 8 bit computers
+- vintage video game consoles
+- RISC Assembly
+- Microprocessors
+- Music recording and audio engineering
+- Building small form factor computers
+- Building custom keyboards
