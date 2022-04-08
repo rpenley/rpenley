@@ -15,12 +15,11 @@
 - Full Test Coverage and CI/CD with Jenkins and AWS CodeDeploy
 - Centralized Authentication and access controls across a multitude of servers and clients
 - Security Auditing for NIST, PCI-DSS, and SOC 1/2 in both single and multi-tenant configurations
-- Orchestration with Ansible and Puppet
+- Orchestration with Chef, Puppet, and Ansible
 - Monitoring with Check_mk, Nagios, and NewRelic
-- Infrastructure as code with Terraform and CloudFormation
-- Containerized stacks with Amazon ECS and Docker Compose
-- High Availability Virtual Machines LAMP stacks in AWS EC2 with Auto Scaling Groups and RDS
-- I also speak fluent Linux, Gitlab, git, vim and the Atlissian Suite of tools
+- Infrastructure as code with Terraform, CloudFormation, and Kubernetes
+- High Availability Virtual Machines LAMP stacks in AWS EC2 with Auto Scaling Groups, Lambda and RDS
+- I also speak fluent Linux, git/Gitlab/GitHub, vim and the Atlissian Suite of tools
 
 # Hobbies and interests
 ## I enjoy 
