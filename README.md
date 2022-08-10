@@ -3,7 +3,7 @@
 
 # Skills
 ## I am proficient in a large variety of languages and design paradigms on both the frontend and backend. Examples include
-- Single page application frameworks such as ReactJS/AngularJS and SASS with orchestration tools like gulp and webpack
+- Single page application frameworks such as ReactJS/AngularJS and SASS with orchestration tools like webpack
 - Python with Flask
 - Node with Express
 - Java with Hibernate
@@ -19,7 +19,7 @@
 - Monitoring with Check_mk, Nagios, and NewRelic
 - Infrastructure as code with Terraform, CloudFormation, and Kubernetes
 - High Availability Virtual Machines LAMP stacks in AWS EC2 with Auto Scaling Groups, Lambda and RDS
-- I also speak fluent Linux, git/Gitlab/GitHub, vim and the Atlissian Suite of tools
+- I also speak fluent Linux, git, vim and the Atlassian Suite
 
 # Hobbies and interests
 ## I enjoy 
