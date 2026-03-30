@@ -10,4 +10,4 @@ If you want to talk about engineering work, infrastructure, security, open sourc
 
 ## Elsewhere
 - [GitHub](https://github.com/rpenley)
-- [LinkedIn](https://linkedin.com/in/rpenley)
+- [LinkedIn](https://www.linkedin.com/in/rynepenley)
