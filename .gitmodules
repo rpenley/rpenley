@@ -1,3 +1,3 @@
 [submodule "ziggy"]
 	path = ziggy
-	url = git@github.com:rpenley/ziggy.git
+	url = https://github.com/rpenley/ziggy.git
