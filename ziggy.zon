@@ -1,0 +1,8 @@
+.{
+    .content_dir = "content",
+    .template = "default",
+    .publish_dir = "publish",
+    .site_url = "https://rpenley.github.io",
+    .site_title = "Ryne Penley",
+    .site_author = "Ryne Penley",
+}
