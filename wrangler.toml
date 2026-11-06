@@ -7,6 +7,7 @@ preview_urls = false
 [assets]
 directory = "./publish"
 binding = "ASSETS"
+not_found_handling = "404-page"
 
 [[routes]]
 pattern = "rynepenley.com"
