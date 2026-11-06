@@ -1,22 +1,23 @@
 ---
-title: Ryne Penley
-description: DevSecOps/SRE focused on scalable systems, platform tooling, and maintainable software.
+title: Ryne Penley · Engineer
+description: Engineer with over a decade of experience building secure, scalable infrastructure for finance, government, and businesses of all shapes and sizes.
 ---
 
-### Hey I'm Ryne and I'm a passionate about software. 
+# Hi, I'm Ryne and I enjoy building things that are designed to last
 
-#### I've spent the last decade building solutions as a DevSecOps engineer by optimizing systems, simplifying complexity, and making things that are designed to last. I've maintained large projects like parsec.app and delivered infrastructure for finance, government, and various businesses.
+I'm an engineer with over a decade of experience optimizing systems, simplifying complexity, and keeping production running.
 
-#### In my personal time, I spend more time breaking things than is probably healthy and I build silly software, tinker with old hardware, and love a good JRPG. I strive to remain an eternal student of well-designed things in all walks of life. Some of my other hobbies include...
-- Vintage technology, especially computers and video game consoles
-- RISC assembly; CISC was a mistake
-- Audio engineering
-- Building small form factor computers such as cyberdecks and living room PCs
-- Custom keyboards; I have a serious problem building keyboards
-- Natural language processing with Markov chains and LLMs
-- Perpetually fiddling with my homelab
+I was a member of the core services team at [Parsec](https://parsec.app), a remote desktop gaming platform used by gamers around the world. I've also delivered infrastructure for finance, government, and businesses of all shapes and sizes.
 
-#### For more info about me, take a look at the following:
-- Projects: [projects](/projects.html)
-- Resume: [resume](https://pub-18c80cb185bc47a6bcfd489e5a3e4c7f.r2.dev/rpenley_resume_2026.pdf)
-- Contact: [contact](/contact.html)
+## Featured projects
+- **[Nisse](https://github.com/rpenley/nisse)**: a free, open-source point-of-sale and ERP system for small businesses, built with Rust, Axum, and PostgreSQL.
+- **[Ziggy](https://github.com/rpenley/ziggy)**: the static site generator, written in Zig, that builds this site.
+- **[50cc](https://github.com/rpenley/50cc)**: a minimalist 2D game engine in a single C99 header, with SDL3 as its only dependency.
+
+[See all projects →](/projects.html)
+
+## Outside of work
+I spend more time breaking things than is probably healthy. I tinker with vintage computers and consoles, fiddle with my homelab, build custom keyboards (I have a serious problem), and love a good JRPG.
+
+## Get in touch
+Grab my [resume](https://r2.rynepenley.com/resume.pdf), browse my [GitHub](https://github.com/rpenley), or [send me a message](/contact.html).
